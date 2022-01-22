@@ -14,3 +14,6 @@ The Pima Indians Diabetes Dataset is originally from the National Institute of D
 Dataset Source -> https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 
+How To Deal With Missing Values -> https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/
+
+
